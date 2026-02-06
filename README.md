@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+age public key: age1jndkhya88wcjtd3r5xtpezz6vwyhechp8fvxdgx0jpzezmsqpazsrq3a6c
+```
